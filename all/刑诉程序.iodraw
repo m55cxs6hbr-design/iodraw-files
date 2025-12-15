@@ -114,6 +114,9 @@
             <mxPoint x="-350" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p6JJdq5puVZbpQ0vZPIo-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="08dgOEruhxbXRjawuZ65-60" target="p6JJdq5puVZbpQ0vZPIo-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="08dgOEruhxbXRjawuZ65-60" value="补充侦查" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeWidth=2;pointerEvents=1;direction=north;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-280" y="365" width="60" height="120" as="geometry" />
         </mxCell>
