@@ -174,6 +174,9 @@
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-2" value="拘留" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="294" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p6JJdq5puVZbpQ0vZPIo-3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
