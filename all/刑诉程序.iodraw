@@ -117,7 +117,7 @@
         <mxCell id="08dgOEruhxbXRjawuZ65-60" value="补充侦查" style="rounded=1;whiteSpace=wrap;html=1;align=left;strokeWidth=2;pointerEvents=1;direction=north;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-290" y="785" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="08dgOEruhxbXRjawuZ65-66" value="立案" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="08dgOEruhxbXRjawuZ65-66" value="立案" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="08dgOEruhxbXRjawuZ65-72" value="有犯罪事实需要追究刑事责任" style="text;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
