@@ -168,11 +168,17 @@
             <mxPoint x="294" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p6JJdq5puVZbpQ0vZPIo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p6JJdq5puVZbpQ0vZPIo-3" target="p6JJdq5puVZbpQ0vZPIo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-3" value="拘留" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="300" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-4" value="逮捕" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p6JJdq5puVZbpQ0vZPIo-5" value="拘留" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="300" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
