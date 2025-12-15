@@ -141,7 +141,7 @@
         <mxCell id="WpMX-9pULXaTHqItJUgS-27" value="提请逮捕" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-120" y="92.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WpMX-9pULXaTHqItJUgS-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
+        <mxCell id="WpMX-9pULXaTHqItJUgS-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1" target="p6JJdq5puVZbpQ0vZPIo-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="545" as="sourcePoint" />
             <mxPoint x="395" y="440" as="targetPoint" />
@@ -172,7 +172,7 @@
           <mxGeometry x="300" y="300" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-4" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="400" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
