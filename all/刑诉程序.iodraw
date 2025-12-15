@@ -141,15 +141,6 @@
         <mxCell id="WpMX-9pULXaTHqItJUgS-27" value="提请逮捕" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-120" y="92.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WpMX-9pULXaTHqItJUgS-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" edge="1" target="p6JJdq5puVZbpQ0vZPIo-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="545" as="sourcePoint" />
-            <mxPoint x="395" y="440" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="400" y="440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WpMX-9pULXaTHqItJUgS-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WpMX-9pULXaTHqItJUgS-27" target="08dgOEruhxbXRjawuZ65-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="450" as="sourcePoint" />
@@ -179,11 +170,17 @@
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-3" value="拘留" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6666FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="300" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="p6JJdq5puVZbpQ0vZPIo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="p6JJdq5puVZbpQ0vZPIo-4" target="p6JJdq5puVZbpQ0vZPIo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-4" value="逮捕" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6666FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-7" value="30+7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="395" y="298" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p6JJdq5puVZbpQ0vZPIo-8" value="逮捕" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6666FF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="400" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
