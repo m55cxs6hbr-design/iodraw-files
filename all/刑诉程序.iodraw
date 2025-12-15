@@ -165,17 +165,14 @@
         <mxCell id="WpMX-9pULXaTHqItJUgS-35" value="&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;公安机关或者人民检察院自行发现的犯罪事实或者犯罪嫌疑&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;单位和个人的报案或举报&lt;/font&gt;&lt;font face=&quot;Calibri&quot;&gt;;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;被害人的报案或控告（&lt;/span&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;报案&lt;/font&gt;&lt;font style=&quot;font-size: 10.5pt; background-color: initial;&quot; face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;控告&lt;/font&gt;&lt;font style=&quot;font-size: 10.5pt; background-color: initial;&quot; face=&quot;Calibri&quot;&gt;/&lt;/font&gt;&lt;font style=&quot;font-family: 宋体; font-size: 10.5pt; background-color: initial;&quot; face=&quot;宋体&quot;&gt;举报）&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: Calibri; font-size: 10.5pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 10.5pt;&quot;&gt;犯罪人的自首。&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="-290" width="400" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="p6JJdq5puVZbpQ0vZPIo-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="p6JJdq5puVZbpQ0vZPIo-2">
+        <mxCell id="p6JJdq5puVZbpQ0vZPIo-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="p6JJdq5puVZbpQ0vZPIo-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="274" y="320" as="sourcePoint" />
-            <mxPoint x="300" y="340" as="targetPoint" />
+            <mxPoint x="294" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p6JJdq5puVZbpQ0vZPIo-2" value="拘留" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="294" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="300" y="280" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
