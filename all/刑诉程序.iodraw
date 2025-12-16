@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-4" value="逮捕" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#6666FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="390" y="820" width="90" height="60" as="geometry" />
+          <mxGeometry x="385" y="803" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p6JJdq5puVZbpQ0vZPIo-7" value="30+7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="385" y="718" width="50" height="30" as="geometry" />
