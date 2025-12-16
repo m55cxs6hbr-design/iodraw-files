@@ -221,7 +221,7 @@
         <mxCell id="fsPzR40NB7v_frJXKYzX-8" value="复核" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="1520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fsPzR40NB7v_frJXKYzX-10" value="二审" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fsPzR40NB7v_frJXKYzX-10" value="再审" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="1520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
