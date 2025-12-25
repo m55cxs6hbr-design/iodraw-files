@@ -133,8 +133,13 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-60" target="o8CWrb9_rTJ-QPtHPhML-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="1190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-60" value="第三人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1109" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
