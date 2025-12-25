@@ -80,10 +80,10 @@
           <mxGeometry x="40" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-27" value="保姆（接受劳务）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1020" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-28" value="受害人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
