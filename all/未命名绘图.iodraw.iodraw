@@ -94,6 +94,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="742" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-47" value="主人（提供劳务）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="822" width="120" height="60" as="geometry" />
         </mxCell>
@@ -130,7 +135,7 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-58" value="保姆受伤过错分担" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="275" y="882" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-60" target="o8CWrb9_rTJ-QPtHPhML-53">
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;strokeColor=#6666FF;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-60" target="o8CWrb9_rTJ-QPtHPhML-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;strokeColor=#6666FF;" edge="1" parent="1" target="o8CWrb9_rTJ-QPtHPhML-60">
