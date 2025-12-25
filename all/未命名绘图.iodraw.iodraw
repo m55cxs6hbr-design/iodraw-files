@@ -127,8 +127,8 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-55" value="故意或重大过失" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="930" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="325" y="898" width="50" height="30" as="geometry" />
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-58" value="保姆受伤过错分担" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="898" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
