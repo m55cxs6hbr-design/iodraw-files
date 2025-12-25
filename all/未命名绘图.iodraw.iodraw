@@ -177,8 +177,8 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-72" value="&lt;font color=&quot;#6666ff&quot;&gt;追偿&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="1048" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="828" width="50" height="30" as="geometry" />
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-73" value="注：义务帮工一样，但是主人方拒绝帮工方执意帮工受伤的，主人方不必承担责任&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="930" width="460" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
