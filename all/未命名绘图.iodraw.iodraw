@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="dsFFGP1ze_PjCay1mhm7">
-    <mxGraphModel dx="954" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,8 +177,8 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-73" value="注：义务帮工一样，但是主人方拒绝帮工方执意帮工受伤的，主人方不必承担责任&lt;div&gt;（明确拒绝帮工的不承担责任）&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="40" y="1260" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-74" value="cran" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="35" y="1378" width="50" height="30" as="geometry" />
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-74" value="承揽关系责任自负，除非定作人有过错，承担相应责任（按份责任）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1378" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
