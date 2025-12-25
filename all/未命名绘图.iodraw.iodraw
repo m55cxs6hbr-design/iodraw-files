@@ -8,73 +8,73 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-1" value="工作人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-2" value="受害人" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-4" target="o8CWrb9_rTJ-QPtHPhML-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="200" as="targetPoint" />
+            <mxPoint x="490" y="190" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="560" y="200" />
-              <mxPoint x="560" y="480" />
+              <mxPoint x="500" y="190" />
+              <mxPoint x="500" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="o8CWrb9_rTJ-QPtHPhML-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="200" as="sourcePoint" />
-            <mxPoint x="483.96000000000004" y="349" as="targetPoint" />
+            <mxPoint x="420" y="190" as="sourcePoint" />
+            <mxPoint x="423.96000000000004" y="339" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="200" />
-              <mxPoint x="520" y="340" />
+              <mxPoint x="460" y="190" />
+              <mxPoint x="460" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-4" value="用人单位" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-6" target="o8CWrb9_rTJ-QPtHPhML-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="450" as="targetPoint" />
+            <mxPoint x="150" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="130" y="480" />
+              <mxPoint x="70" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-6" value="劳务派遣单位" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-10" value="因执行工作任务" style="text;whiteSpace=wrap;fontColor=#e70404;" vertex="1" parent="1">
-          <mxGeometry x="380" y="400" width="90" height="30" as="geometry" />
+          <mxGeometry x="320" y="390" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-12" value="无过错责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="570" y="310" width="80" height="30" as="geometry" />
+          <mxGeometry x="470" y="315" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-15" value="故意或重大过失" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="445" y="258" width="110" height="30" as="geometry" />
+          <mxGeometry x="385" y="248" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-18" value="过错责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="205" y="418" width="70" height="30" as="geometry" />
+          <mxGeometry x="145" y="408" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-6" target="o8CWrb9_rTJ-QPtHPhML-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="298" as="sourcePoint" />
-            <mxPoint x="270" y="248" as="targetPoint" />
+            <mxPoint x="160" y="288" as="sourcePoint" />
+            <mxPoint x="210" y="238" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-20" value="相应责任（按份责任ljw）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="160" width="160" height="30" as="geometry" />
+          <mxGeometry x="135" y="150" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-22" target="o8CWrb9_rTJ-QPtHPhML-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-22" value="用工保险" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-24" value="保险先赔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="558" width="70" height="30" as="geometry" />
+          <mxGeometry x="285" y="548" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
