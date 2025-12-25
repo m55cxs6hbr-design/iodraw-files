@@ -7,9 +7,6 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-1" target="o8CWrb9_rTJ-QPtHPhML-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-1" target="o8CWrb9_rTJ-QPtHPhML-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-1" value="工作人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,7 +39,7 @@
           <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-10" value="因执行工作任务" style="text;whiteSpace=wrap;fontColor=#e70404;" vertex="1" parent="1">
-          <mxGeometry x="380" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="400" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-12" value="无过错责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="80" height="30" as="geometry" />
