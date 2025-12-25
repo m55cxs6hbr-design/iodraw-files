@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-20" value="按份责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="218" width="70" height="30" as="geometry" />
+          <mxGeometry x="250" y="160" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
