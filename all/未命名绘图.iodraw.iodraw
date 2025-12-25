@@ -105,7 +105,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-35" value="故意或重大过失" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="45" y="920" width="110" height="30" as="geometry" />
+          <mxGeometry x="30" y="920" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
