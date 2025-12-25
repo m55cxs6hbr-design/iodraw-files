@@ -98,6 +98,11 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="600" y="840" as="sourcePoint" />
             <mxPoint x="660" y="1148" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="802" />
+              <mxPoint x="750" y="802" />
+              <mxPoint x="750" y="1190" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-47" value="主人（提供劳务）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -168,6 +173,9 @@
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-69" value="&lt;font color=&quot;#6666ff&quot;&gt;请求赔偿&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="938" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-72" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="715" y="1038" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
