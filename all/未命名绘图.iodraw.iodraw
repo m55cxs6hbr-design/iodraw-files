@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-1" target="o8CWrb9_rTJ-QPtHPhML-2">
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-1" target="o8CWrb9_rTJ-QPtHPhML-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-1" value="工作人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -97,7 +97,7 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-27" value="保姆（接受劳务）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-28" value="他人（受害人）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-28" value="他人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-32" value="无过错责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
