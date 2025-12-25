@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-6" value="劳务派遣单位" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-10" value="因执行工作任务" style="text;whiteSpace=wrap;fontColor=#e70404;" vertex="1" parent="1">
           <mxGeometry x="380" y="400" width="90" height="30" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-18" value="过错责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="205" y="418" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-6" target="o8CWrb9_rTJ-QPtHPhML-4">
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-6" target="o8CWrb9_rTJ-QPtHPhML-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="298" as="sourcePoint" />
             <mxPoint x="270" y="248" as="targetPoint" />
