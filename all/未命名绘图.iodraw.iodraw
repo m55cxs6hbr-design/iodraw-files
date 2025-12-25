@@ -89,7 +89,7 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-26" value="主人（提供劳务）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-27" target="o8CWrb9_rTJ-QPtHPhML-28">
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-27" target="o8CWrb9_rTJ-QPtHPhML-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="1030" as="targetPoint" />
           </mxGeometry>
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-35" value="故意或重大过失" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="20" y="918" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-40" value="伤害" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="295" y="988" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
