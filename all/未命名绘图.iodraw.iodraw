@@ -55,6 +55,9 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-15" value="故意或重大过失" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="258" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-18" value="过错" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="418" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
