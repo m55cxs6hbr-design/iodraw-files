@@ -37,6 +37,9 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-10" value="因执行工作任务" style="text;whiteSpace=wrap;fontColor=#e70404;" vertex="1" parent="1">
           <mxGeometry x="380" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="308" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
