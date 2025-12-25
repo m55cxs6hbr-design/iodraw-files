@@ -55,8 +55,8 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-15" value="故意或重大过失" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="258" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-18" value="过错" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="418" width="50" height="30" as="geometry" />
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-18" value="过错责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="418" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-6" target="o8CWrb9_rTJ-QPtHPhML-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
