@@ -90,9 +90,7 @@
             <mxPoint x="340" y="852" as="targetPoint" />
             <Array as="points">
               <mxPoint x="360" y="852" />
-              <mxPoint x="360" y="947" />
-              <mxPoint x="400" y="947" />
-              <mxPoint x="400" y="1042" />
+              <mxPoint x="360" y="1042" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -128,6 +126,9 @@
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-55" value="故意或重大过失" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="930" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="898" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
