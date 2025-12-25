@@ -133,9 +133,9 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=flexArrow;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-60" target="o8CWrb9_rTJ-QPtHPhML-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-60">
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="o8CWrb9_rTJ-QPtHPhML-60">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="1200" as="sourcePoint" />
+            <mxPoint x="540" y="1160" as="sourcePoint" />
             <mxPoint x="500" y="1150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="540" y="1070" />
@@ -150,6 +150,9 @@
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-60" value="第三人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-67" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="1088" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
