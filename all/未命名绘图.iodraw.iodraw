@@ -39,8 +39,7 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="140" y="230" />
-              <mxPoint x="140" y="480" />
+              <mxPoint x="130" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-20" value="相应责任（按份责任？？）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="215" y="140" width="170" height="30" as="geometry" />
+          <mxGeometry x="190" y="160" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-22" target="o8CWrb9_rTJ-QPtHPhML-2">
           <mxGeometry relative="1" as="geometry" />
