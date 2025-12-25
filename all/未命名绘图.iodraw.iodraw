@@ -151,8 +151,8 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-60" value="第三人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-67" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="1088" width="50" height="30" as="geometry" />
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-67" value="&lt;font color=&quot;#6666ff&quot;&gt;请求赔偿&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="515" y="1088" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
