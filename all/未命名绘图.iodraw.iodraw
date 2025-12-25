@@ -180,8 +180,49 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-74" value="承揽关系责任自负，除非定作人有过错，承担相应责任（按份责任）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="60" y="1390" width="380" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-75" value="未成年" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1520" width="120" height="60" as="geometry" />
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-75" target="o8CWrb9_rTJ-QPtHPhML-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=flexArrow;" edge="1" parent="1" target="o8CWrb9_rTJ-QPtHPhML-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="1572" as="sourcePoint" />
+            <mxPoint x="345" y="1742" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="445" y="1742" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-75" value="无/限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1512" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.012;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-76" target="o8CWrb9_rTJ-QPtHPhML-78">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="1652" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="1736" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-76" value="监护人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1512" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-78" value="受害人" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1712" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-83" value="无过错责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="1612" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-84" value="尽到监护职责的，可以减轻其侵权责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1510" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-75" target="o8CWrb9_rTJ-QPtHPhML-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="315" y="1672" as="sourcePoint" />
+            <mxPoint x="365" y="1622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-86" value="有财产，赔偿，&lt;div&gt;不足，监护人&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1605" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
