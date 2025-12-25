@@ -35,7 +35,7 @@
           <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-10" value="因执行工作任务" style="text;whiteSpace=wrap;strokeColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="350" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="350" y="400" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
