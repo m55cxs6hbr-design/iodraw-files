@@ -7,9 +7,6 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-1" target="o8CWrb9_rTJ-QPtHPhML-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o8CWrb9_rTJ-QPtHPhML-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-1" target="o8CWrb9_rTJ-QPtHPhML-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-1" target="o8CWrb9_rTJ-QPtHPhML-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -49,6 +46,9 @@
         </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-12" value="无过错责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-15" value="故意或重大过失" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="258" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
