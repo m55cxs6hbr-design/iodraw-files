@@ -67,8 +67,14 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-20" value="按份责任" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="160" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o8CWrb9_rTJ-QPtHPhML-22" target="o8CWrb9_rTJ-QPtHPhML-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-22" value="用工保险" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-24" value="保险先赔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="558" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
