@@ -177,6 +177,9 @@
         <mxCell id="o8CWrb9_rTJ-QPtHPhML-72" value="&lt;font color=&quot;#6666ff&quot;&gt;追偿&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="1048" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="o8CWrb9_rTJ-QPtHPhML-73" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="565" y="828" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
