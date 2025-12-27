@@ -19,8 +19,14 @@
             <mxPoint x="40" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NV238FxCViUdAoYIsx-6-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NV238FxCViUdAoYIsx-6-5" value="人身权" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NV238FxCViUdAoYIsx-6-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="580" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
